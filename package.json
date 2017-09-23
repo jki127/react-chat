@@ -26,10 +26,13 @@
     "webpack-dev-server": "^2.5.1"
   },
   "dependencies": {
+    "cssnano": "^3.10.0",
     "graceful-fs": "^4.1.11",
     "inherits": "^2.0.3",
     "postcss": "^6.0.11",
     "postcss-cssnext": "^3.0.2",
+    "postcss-import": "^11.0.0",
+    "postcss-loader": "^2.0.6",
     "react": "^16.0.0-alpha.5",
     "react-dom": "^16.0.0-alpha.5"
   }
