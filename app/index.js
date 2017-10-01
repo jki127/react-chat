@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM  from 'react-dom';
 import './index.css';
-
-import Chat from './Chat/index.jsx';
+import Chat from './Chat/Chat.jsx';
 
 class App extends React.Component {
   render() {
