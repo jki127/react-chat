@@ -1,8 +1,10 @@
+@import './style/font-inter-ui.css';
+
 body {
   background: #EC6F66;
   background: -webkit-linear-gradient(to left, #F3A183, #EC6F66);
   background: linear-gradient(to left, #F3A183, #EC6F66);
-  font-family: Avenir, 'Helvetica Neue', Hevetica, Arial, sans-serif;
+  font-family: 'Inter UI', Avenir, 'Helvetica Neue', Hevetica, Arial, sans-serif;
   margin: 0;
   font-size: 20px;
   padding: 20px;

@@ -1,0 +1,175 @@
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Bold.eot');
+	src: url('InterUI-Bold.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Bold.woff2') format('woff2'),
+		url('InterUI-Bold.woff') format('woff'),
+		url('InterUI-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-RegularItalic.eot');
+	src: url('InterUI-RegularItalic.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-RegularItalic.woff2') format('woff2'),
+		url('InterUI-RegularItalic.woff') format('woff'),
+		url('InterUI-RegularItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Regular.eot');
+	src: url('InterUI-Regular.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Regular.woff2') format('woff2'),
+		url('InterUI-Regular.woff') format('woff'),
+		url('InterUI-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-BoldItalic.eot');
+	src: url('InterUI-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-BoldItalic.woff2') format('woff2'),
+		url('InterUI-BoldItalic.woff') format('woff'),
+		url('InterUI-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-BlackItalic.eot');
+	src: url('InterUI-BlackItalic.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-BlackItalic.woff2') format('woff2'),
+		url('InterUI-BlackItalic.woff') format('woff'),
+		url('InterUI-BlackItalic.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-MediumItalic.eot');
+	src: url('InterUI-MediumItalic.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-MediumItalic.woff2') format('woff2'),
+		url('InterUI-MediumItalic.woff') format('woff'),
+		url('InterUI-MediumItalic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Black.eot');
+	src: url('InterUI-Black.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Black.woff2') format('woff2'),
+		url('InterUI-Black.woff') format('woff'),
+		url('InterUI-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Medium.eot');
+	src: url('InterUI-Medium.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Medium.woff2') format('woff2'),
+		url('InterUI-Medium.woff') format('woff'),
+		url('InterUI-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Black_1.eot');
+	src: url('InterUI-Black_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Black_1.woff2') format('woff2'),
+		url('InterUI-Black_1.woff') format('woff'),
+		url('InterUI-Black_1.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-RegularItalic_1.eot');
+	src: url('InterUI-RegularItalic_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-RegularItalic_1.woff2') format('woff2'),
+		url('InterUI-RegularItalic_1.woff') format('woff'),
+		url('InterUI-RegularItalic_1.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Regular_1.eot');
+	src: url('InterUI-Regular_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Regular_1.woff2') format('woff2'),
+		url('InterUI-Regular_1.woff') format('woff'),
+		url('InterUI-Regular_1.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-MediumItalic_1.eot');
+	src: url('InterUI-MediumItalic_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-MediumItalic_1.woff2') format('woff2'),
+		url('InterUI-MediumItalic_1.woff') format('woff'),
+		url('InterUI-MediumItalic_1.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-BlackItalic_1.eot');
+	src: url('InterUI-BlackItalic_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-BlackItalic_1.woff2') format('woff2'),
+		url('InterUI-BlackItalic_1.woff') format('woff'),
+		url('InterUI-BlackItalic_1.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-BoldItalic_1.eot');
+	src: url('InterUI-BoldItalic_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-BoldItalic_1.woff2') format('woff2'),
+		url('InterUI-BoldItalic_1.woff') format('woff'),
+		url('InterUI-BoldItalic_1.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Bold_1.eot');
+	src: url('InterUI-Bold_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Bold_1.woff2') format('woff2'),
+		url('InterUI-Bold_1.woff') format('woff'),
+		url('InterUI-Bold_1.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter UI';
+	src: url('InterUI-Medium_1.eot');
+	src: url('InterUI-Medium_1.eot?#iefix') format('embedded-opentype'),
+		url('InterUI-Medium_1.woff2') format('woff2'),
+		url('InterUI-Medium_1.woff') format('woff'),
+		url('InterUI-Medium_1.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
