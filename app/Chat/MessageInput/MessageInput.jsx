@@ -1,8 +1,11 @@
 import React from 'react';
+import './MessageInput.css';
 
 class MessageInput extends React.Component {
   render() {
-    return (<input type="text"/>);
+    return (
+      <input className="message-input" type="text"/>
+    );
   }
 }
 

@@ -13,3 +13,10 @@ body {
 h1, h2, h3, h4, h5, p {
   margin: 0;
 }
+
+input, textarea, select, button {
+  font-size: 14px;
+  font-family: 'Inter UI', Avenir, 'Helvetica Neue', Hevetica, Arial, sans-serif;
+  border: 0;
+  outline-color: #FFFFFF;
+}
