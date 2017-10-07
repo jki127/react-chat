@@ -13,5 +13,8 @@
 
 .byebug_history
 
+/config/secrets.yml
+
+# client directories and folders
 /client/dist
 /client/node_modules
