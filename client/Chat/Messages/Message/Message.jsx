@@ -6,7 +6,7 @@ class Message extends React.Component{
     return (
       <div className="Message">
         <span className="author">User Name</span>
-        <p className="text">Message Content</p>
+        <p className="text">{this.props.text}</p>
       </div>
     );
   }

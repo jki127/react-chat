@@ -1,5 +1,9 @@
 @import './style/font-inter-ui.css';
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background: #EC6F66;
   background: -webkit-linear-gradient(to left, #F3A183, #EC6F66);
@@ -18,5 +22,19 @@ input, textarea, select, button {
   font-size: 14px;
   font-family: 'Inter UI', Avenir, 'Helvetica Neue', Hevetica, Arial, sans-serif;
   border: 0;
-  outline-color: #FFFFFF;
+  outline-width: 0;
+}
+
+*::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 3px;
+}
+
+*::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(255,255,255, 1);
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
 }
