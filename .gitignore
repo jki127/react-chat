@@ -14,8 +14,9 @@
 
 .byebug_history
 
-/config/secrets.yml
+.env
+/config/secrets_backup.yml
 
 # client directories and folders
 /client/dist
-/client/node_modules
+node_modules
