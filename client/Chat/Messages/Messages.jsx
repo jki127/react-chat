@@ -3,6 +3,12 @@ import './Messages.css';
 import Message from './Message/Message.jsx';
 
 class Messages extends React.Component {
+  componentDidUpdate(){
+    // Scroll to the bottom of the messages
+    let element = document.getElementById("messageScroll");
+    element.scrollTop = element.scrollHeight - element.clientHeight;
+  }
+
   renderMessages() {
     let messagesJSX = [];
     if (this.props.messages != null && this.props.messages.length > 0) {
@@ -15,7 +21,13 @@ class Messages extends React.Component {
   }
 
   render() {
-    return <div className="Messages">{this.renderMessages()}</div>;
+    return (
+      <div className="Messages">
+        <div id="messageScroll" className="Messages__scroll-wrap">
+          {this.renderMessages()}
+        </div>
+      </div>
+    );
   }
 }
 

@@ -1,7 +1,13 @@
 .Message {
+  padding-top: 10px;
 }
+
 .Message .author {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 10px;
+}
+
+.Message:last-child {
+  padding-bottom: 10px;
 }
